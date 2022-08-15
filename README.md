@@ -71,4 +71,3 @@ More information about the usage of this directory in [the documentation](https:
 =======
 # dad-jokes
 A nuxt application displaying corny dad jokes
->>>>>>> e05bd274ba9b7f8794ec5bb705c2ccb895a3228a
