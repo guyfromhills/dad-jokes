@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dadjokes
 
 ## Build Setup
@@ -67,3 +68,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# dad-jokes
+A nuxt application displaying corny dad jokes
+>>>>>>> e05bd274ba9b7f8794ec5bb705c2ccb895a3228a
